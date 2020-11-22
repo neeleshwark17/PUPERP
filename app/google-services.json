@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122320524648",
+    "firebase_url": "https://puperp-15933.firebaseio.com",
+    "project_id": "puperp-15933",
+    "storage_bucket": "puperp-15933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122320524648:android:50f41294cf7661b90172dd",
+        "android_client_info": {
+          "package_name": "com.example.projectproto_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122320524648-jmkcb2pekjs3ptehqgnvn49t4nll3b07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectproto_1",
+            "certificate_hash": "18d5cea5b3a769ba7d1182e79cc937505b12df2d"
+          }
+        },
+        {
+          "client_id": "122320524648-3qtq0p9arm0iv89kkkitsoht40ofn3ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBmMWwltpCdtQ5WmJ7W8LPJW3RDVynk_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122320524648-3qtq0p9arm0iv89kkkitsoht40ofn3ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
